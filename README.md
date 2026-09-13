@@ -1,4 +1,4 @@
-HELLO WOLRD 
+"HELLO WOLRD" 👋👋
 
 I'm Tanwa, a Grade 12 Computer science students in thailand, and i'm about to enter uni!! 
 
